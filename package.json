@@ -1,0 +1,19 @@
+{
+  "name": "@knjaz1989/ajs_h3",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knjaz1989/ajs_h3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Knjaz1989/ajs_h3/issues"
+  },
+  "homepage": "https://github.com/Knjaz1989/ajs_h3#readme",
+  "description": ""
+}
